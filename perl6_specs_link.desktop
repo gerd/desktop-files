@@ -1,0 +1,13 @@
+
+[Desktop Entry]
+Encoding=UTF-8
+Name=Official Perl 6 Documentation
+Name[de]=Offizielle Perl 6 Dokumentation
+GenericName=Official Perl 6 Documentation
+Comment=This is the link of the starting point from the "Offizielle Perl 6 Dokumentation" in the internet.
+Comment[de]=Öffnet die WWW-Startseite der "Offiziellen Perl 6 Dokumentation" aus dem Internet.
+Exec=xdg-open http://perlcabal.org/syn/
+Icon=gnome-mime-application-pdf
+Terminal=false
+Type=Application
+Categories=Development;
